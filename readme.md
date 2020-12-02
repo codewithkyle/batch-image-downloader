@@ -1,4 +1,4 @@
-# Image Downloader
+# Batch Image Downloader
 
 Batch download images from JSON files using NodeJS.
 
